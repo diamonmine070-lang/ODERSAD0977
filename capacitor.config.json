@@ -1,9 +1,0 @@
-{
-  "appId": "com.techadmin.v4",
-  "appName": "TechAdmin V4",
-  "webDir": "www",
-  "server": {
-    "androidScheme": "https",
-    "cleartext": true
-  }
-}
